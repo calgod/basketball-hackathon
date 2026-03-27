@@ -1,0 +1,15 @@
+{
+    "name": "march-madness-strudel-tracker",
+    "version": "0.1.0",
+    "private": true,
+    "description": "March Madness score tracker with Strudel-reactive audio",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "@strudel/web": "^1.3.0"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}
